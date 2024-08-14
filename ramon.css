@@ -1,0 +1,31 @@
+body { 
+    margin: 30px;
+    background: darkblue;
+}
+body {
+    color: white;
+}
+
+p{
+    color:wheat;
+    font-size: medium;
+}
+a{
+    color: white;
+    font-size: larger
+}
+
+#title {
+    background-color: rgba(255, 255, 255, 0);
+    padding-left: 10px;
+    max-width: 25%;
+  }
+
+  .subsection.header {
+    color: rgb(255, 255, 255);
+  }
+  
+  .subsection#preview {
+    color: rgb(0, 236, 79);
+  }
+  
