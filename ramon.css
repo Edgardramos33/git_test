@@ -1,21 +1,26 @@
 body { 
     margin: 30px;
-    background: darkblue;
+    background-image: url("https://cdn.oneesports.gg/cdn-data/2024/04/WutheringWaves_Characters_LaunchDate_KeyVisual.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
 body {
     color: white;
+    font-size: larger;
 }
 
 p{
     color:wheat;
-    font-size: medium;
+    font-size: larger;
 }
 a{
     color: white;
-    font-size: larger
+    font-size: larger;  
 }
 em {
-  color: white;
+  color: aliceblue;
 }
 
 #title {
@@ -31,4 +36,8 @@ em {
   .subsection#preview {
     color: rgb(0, 236, 79);
   }
-  
+  div img{
+      max-width: 25%;
+      max-height: 25%;
+      border: 10px solid rgb(81, 0, 231);
+      }
